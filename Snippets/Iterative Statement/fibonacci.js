@@ -1,7 +1,7 @@
 // Program to print fibonacci series upto a given number
 
 // Final value or upper limit
-let numterms = 8;
+//let numterms = 8;
 
 // First two numbers which are fixed
 let num1=0;
@@ -12,7 +12,7 @@ console.log(num1);
 console.log(num2);
 
 // Run a for loop for next term 
-for (let i=3;i<=numterms;i++){
+for (let i=3;i<=8;i++){
     let nexterms = num1+num2;
 
     // Print next term
