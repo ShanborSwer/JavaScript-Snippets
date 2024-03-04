@@ -21,4 +21,5 @@ for (let i=3;i<=8;i++){
     // Interchange the value to get next terms or next to it
     num1=num2;
     num2=nexterms;
-}
+} 
+
