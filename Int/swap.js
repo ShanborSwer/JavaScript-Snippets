@@ -19,5 +19,5 @@ c=a;
 a=b;
 b=c;
 
-console.log(a)
-console.log(b)
+console.log("After swap a =",a)
+console.log("After swap b =",b)
