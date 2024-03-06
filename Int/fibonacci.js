@@ -18,7 +18,7 @@ for (let i=0;i<=8;i++){
     // Print next term
     console.log(nexterms);
 
-    // Interchange the value to get next terms or next to it
+    // swap the value to get next terms or next to it
     num1=num2;
     num2=nexterms;
 } 
