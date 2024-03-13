@@ -1,4 +1,4 @@
-// Program to print fibonacci series upto a given number
+ // Program to print fibonacci series upto a given number
 
 // Final value or upper limit
 //let numterms = 8;
@@ -23,3 +23,4 @@ for (let i=0;i<=8;i++){
     num2=nexterms;
 } 
 
+ 
